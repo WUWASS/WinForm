@@ -17,5 +17,9 @@ namespace WinForm
         {
             Name = name;
         }
+        public void NewCom()
+        {
+            
+        }
     }
 }
